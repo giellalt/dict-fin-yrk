@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Po">aiemmas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тяхакуʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">aiemmin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тяхакуна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">aiheesta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">сермня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">aikana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ёльцьӈгана</t> <t Contlex="POSTP_" pos="Po">мальӈгана</t><t Contlex="POSTP_" pos="Po">ямбанʼ</t> <t Contlex="POSTP_" pos="Po">ямбахана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ӈылмна</t> <t Contlex="POSTP_" pos="Po">ӈылна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ӈылʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">alta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ӈылад</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">asti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ёльцьмана</t> <t Contlex="POSTP_" pos="Po">ёльцяндʼ</t> <t Contlex="POSTP_" pos="Po">ӈэсондʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерцюна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">edestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерад</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">editse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">нермня</t> <t Contlex="POSTP_" pos="Po">нерцюмня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ennen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерцюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">eteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">eteenpäin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нерняʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jäljessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">пуна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jäljestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">пуд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">jälkeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">пумна</t> <t Contlex="POSTP_" pos="Po">пуʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kauemmas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тяхакуʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kauemmin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тяхакуна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">еˮня</t> <t Contlex="POSTP_" pos="Po">нимня</t><t Contlex="POSTP_" pos="Po">някумна</t> <t Contlex="POSTP_" pos="Po">нямна</t><t Contlex="POSTP_" pos="Po">няюмна</t> <t Contlex="POSTP_" pos="Po">тавна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">keskellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ерня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kohdalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">еˮня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kohti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">едʼ</t> <t Contlex="POSTP_" pos="Po">етʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">koko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тавна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">kuluessa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ямбахана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">liittyen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">сермня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lisäksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ӈэломана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">няʼ</t> <t Contlex="POSTP_" pos="Po">някуʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luokse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">няʼ</t> <t Contlex="POSTP_" pos="Po">някуʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luona</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">някуна</t> <t Contlex="POSTP_" pos="Po">няна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">luota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">няд</t> <t Contlex="POSTP_" pos="Po">някуд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">немюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ядувана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lähtien</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ёльцьӈгад</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">läpi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тахамна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">lävitse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">тахамна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">mukaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">мянʼ</t> <t Contlex="POSTP_" pos="Po">сертревʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">mukaisesti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">серевʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">myöten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">хунзерʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ohi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ирмня</t> <t Contlex="POSTP_" pos="Po">хэвувна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">paitsi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ӈэломана</t> <t Contlex="POSTP_" pos="Po">хавна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">perään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">пумна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">pitkin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">нимня</t> <t Contlex="POSTP_" pos="Po">хунзерʼ</t><t Contlex="POSTP_" pos="Po">хэвувна</t> <t Contlex="POSTP_" pos="Po">ямбанʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">poikittain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нярпойʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">poikki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нярпойʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">няюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päälle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ни</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ниня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">päältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нид</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">saakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ӈэсондʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sijasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">ӈэломана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisäkautta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">мюмня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">мюня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisältä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">мюд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisästä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">мюд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">sisään</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">мюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suunnassa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">няюна</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suunnasta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">няюд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">suuntaan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">няюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">syystä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нид</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">taakse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">пуняʼ</t> <t Contlex="POSTP_" pos="Po">тяхаʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">пуняд</t> <t Contlex="POSTP_" pos="Po">тяхад</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takaisin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">пуняʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takana</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">пунямна</t> <t Contlex="POSTP_" pos="Po">пуняна</t> <t Contlex="POSTP_" pos="Po">тяхана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">takia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нид</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">tavalla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">серевʼ</t> <t Contlex="POSTP_" pos="Po">серʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">varten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">еˮэмня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vastapäätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">екана</t> <t Contlex="POSTP_" pos="Po">еˮня</t> <t Contlex="POSTP_" pos="Po">ирня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">viereen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">немюʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">viereessä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">хэвхана</t> <t Contlex="POSTP_" pos="Po">ядувана</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vieressä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ирмня</t> <t Contlex="POSTP_" pos="Po">ирня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">vierestä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="POSTP_" pos="Po">ирмня</t> <t Contlex="POSTP_" pos="Po">ирняд</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">yli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="POSTP_" pos="Po">нимня</t> </tg> </mg> </e>
+</r>

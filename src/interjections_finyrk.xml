@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="">ah</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">ювэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="">ai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">ювэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">aivan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">тидаˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hss!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">хысь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hyh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="INTERJ_" pos="Interj">вэ</t> <t Contlex="INTERJ_" pos="Interj">пэ</t> <t Contlex="INTERJ_" pos="Interj">фэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hyi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="INTERJ_" pos="Interj">вэ</t> <t Contlex="INTERJ_" pos="Interj">пэ</t> <t Contlex="INTERJ_" pos="Interj">фэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">joutuin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">ӈарехэˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">juuri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">тидаˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kiitos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">пасиба</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">kuikan ääni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">кукуй-кукуй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">melonnan ääni</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">кыув</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oho</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">калэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">калэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pikemmin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">ӈариˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">pst!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">хысь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">us! (huuto koiralle)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="INTERJ_" pos="Interj">хусь</t> </tg> </mg> </e>
+</r>
