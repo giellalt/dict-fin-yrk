@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e> <lg> <l pos="Num">yksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">ӈопой</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇОДИ/ТЁН" pos="Num">сидя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ВАР" pos="Num">няхарˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ЕД/ТИРЕ" pos="Num">тет</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ЕД/ХАНО" pos="Num">самляӈг</t> <t Contlex="NUM_ЕД/ХАНО" pos="Num">самляӈг</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">матˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТИРЕ/ХАНО" pos="Num">сиˮив</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ЕД/ТИРЕ" pos="Num">сидндет</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">хасуюˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">юˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТАРЕ" pos="Num">юрˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТАРЕ" pos="Num">ёнарˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇУДИ" pos="Num">ӈобˮ яӈгня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇУДИ" pos="Num">сидя яӈгня</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">-toista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇУДИ" pos="Num">яӈгня</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">ensimmäinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">нюртей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kahdeksan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ЕД/ТИРЕ" pos="Num">сидндет</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kahdeksäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">сидндетимдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇОДИ/ТЁН" pos="Num">сидя</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇУДИ" pos="Num">сидя яӈгня</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kolmas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">няхарамдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">няхаромдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kolme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ВАР" pos="Num">няхарˮ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kuudes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">матдомдэй</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kuusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">матˮ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kymmenen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">юˮ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">юдимдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">neljä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ЕД/ТИРЕ" pos="Num">тет</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">neljäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">тетимдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">юримдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">sata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТАРЕ" pos="Num">юрˮ</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seitsemän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТИРЕ/ХАНО" pos="Num">сиˮив</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seitsemäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">сибимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">сиˮивмдей</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">toinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">нябимдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">tuhannes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">ёнрадимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">ёнримдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">tuhat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ТАРЕ" pos="Num">ёнарˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">няхарамдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">няхаромдей</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">тетимдей</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">viides</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">самлянзимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">самблянзюмдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">viisi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ЕД/ХАНО" pos="Num">самляӈг</t> <t Contlex="NUM_ЕД/ХАНО" pos="Num">самляӈг</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">yhdeksän</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_МЯДО" pos="Num">хасуюˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">матдомдэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">сибимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">сиˮивмдей</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">сидндетимдей</t> </tg> </mg> </e>
 <e> <lg> <l pos="Num">yhdeksäs</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">хасуюдимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">хасаваюдимдей</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">yksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">ӈопой</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">yksitoista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ӇУДИ" pos="Num">ӈобˮ яӈгня</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">юдимдей</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sadas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">юримдей</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhannes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="NUM_ХУСУВЭЙ" pos="Num">ёнрадимдей</t> <t Contlex="NUM_ХУСУВЭЙ" pos="Num">ёнримдей</t> </tg> </mg> </e>
 </r>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
 <e> <lg> <l pos="Prop">Anton</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Антон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prop">Vylka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_МАРАӇГЫ" pos="Prop">Вылка</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Ivan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Иван</t> </tg> </mg> </e>
-<e> <lg> <l pos="Prop">Javtysyi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Явтысый</t> </tg> </mg> </e>
-<e> <lg> <l pos="Prop">Julia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Юлия</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Laptsui</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="PROP_ЕД" pos="Prop">Лабцуй</t> <t Contlex="PROP_ЕД" pos="Prop">Лабцуй</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Ledkov</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Ледков</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Lenin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Ленин</t> </tg> </mg> </e>
@@ -11,8 +10,9 @@
 <e> <lg> <l pos="Prop">Maksim</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Максим</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Moskova</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Москва</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Pyrerka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_МАРАӇГЫ" pos="Prop">Пырерка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prop">Venäjä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Россия</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Siperia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Сибирь</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prop">Suomi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Финляндия</t> </tg> </mg> </e>
-<e> <lg> <l pos="Prop">Venäjä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Россия</t> </tg> </mg> </e>
-<e> <lg> <l pos="Prop">Vylka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_МАРАӇГЫ" pos="Prop">Вылка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prop">Julia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_" pos="Prop">Юлия</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prop">Javtysyi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="PROP_ЕД" pos="Prop">Явтысый</t> </tg> </mg> </e>
 </r>
