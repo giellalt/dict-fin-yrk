@@ -1,7 +1,10 @@
 ##
-2014-01-15
+2014-02-17
 These files have been automatically generated from main/langs/yrk/src/morphology/stems/...xml files with a simple xslt written by Jack Rueter
-The content is intended for use with nds dictionaries in http://sanat.oahpa.no
+The content is intended for use with nds dictionaries in http://vada.oahpa.no .
+The automatically generated reverse-direction dictionary may be useful in
+the location of problems within the yrk-project, but it is also helpful
+for bridging an initial fin-yrk communication awareness.
 The yrk transducer is in its second year of development in a Kone Foundation funded project
 The fin transducer is from OMorFi
 

@@ -775,7 +775,7 @@
 <e> <lg> <l pos="A">unohdettu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ХУСУВЭЙ" pos="A">юрбэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">uskonut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ХУСУВЭЙ" pos="A">пунрамбэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">usvainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ӇУДИ" pos="A">синёна</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">uupunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="A_ЕД" pos="A">вынхалуй</t> <t Contlex="A_ХУСУВЭЙ" pos="A">нюнбэй</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">uupunut</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="A_ЕД" pos="A">вынхалуй</t> <t Contlex="A_ХУСУВЭЙ" pos="A">нюнбэй</t> <t Contlex="A_ХУСУВЭЙ" pos="A">тасялпэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">uusi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="A_ЕД" pos="A">едэй</t> <t Contlex="A_ЕД" pos="A">несэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">uuttera</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_МЕРЁ" pos="A">харбё</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">vaahtoinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ЕД" pos="A">сисёляӈг</t> </tg> </mg> </e>
@@ -848,7 +848,7 @@
 <e> <lg> <l pos="A">vähävoimainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ӇУДИ" pos="A">маяндана</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">väljähtynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ХУСУВЭЙ" pos="A">юседабэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">värjätty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ХУСУВЭЙ" pos="A">ӈотабэй</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">väsynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="A_ХУСУВЭЙ" pos="A">пэдабэй</t> <t Contlex="A_ЕД" pos="A">пэдёй</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">väsynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="A_ХУСУВЭЙ" pos="A">пэдабэй</t> <t Contlex="A_ЕД" pos="A">пэдёй</t> <t Contlex="A_ХУСУВЭЙ" pos="A">тасялпэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">väsyttävä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ӇАНУ" pos="A">нюнабцо</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">vääntynyt</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ХУСУВЭЙ" pos="A">лёдребэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">vääränpuoleinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="A_ПАНЫ" pos="A">вэняӈы</t> </tg> </mg> </e>
