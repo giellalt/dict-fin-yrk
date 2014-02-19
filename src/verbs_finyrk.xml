@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
 <e> <lg> <l pos="V">sijata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ПЭБЮ" pos="V">ваˮавондамбась</t> <t Contlex="TV_ИЛЕ" pos="V">ваˮавондась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">petata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_СЯНАКУ" pos="V">ваˮавондаӈгось</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">sulkea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">ваˮлабась</t> </tg> </mg> </e>
@@ -1241,8 +1241,7 @@
 <e> <lg> <l pos="V">kiehauttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">лохомдась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kiehua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ӇАРАМ" pos="V">лохомзь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kiehahtaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ӇАРАМ" pos="V">лохомзь</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">kuormata yhdellä tai parilla pienehköllä
-        kääröllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">лоӈглабтась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kuormata yhdellä tai parilla pienehköllä kääröllä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">лоӈглабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">hyllyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ИЛЕ" pos="V">лурцрась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">hytkyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ИЛЕ" pos="V">лурцрась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">käyristyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ТИР" pos="V">лусарць</t> </tg> </mg> </e>
@@ -1867,7 +1866,7 @@
 <e> <lg> <l pos="V">tykätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ВАДЮ" pos="V">мэнеялёсь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">tyrkyttää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">мэрабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pidättyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ИЛЕ" pos="V">мэрась</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">olla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <tCtn> <t Contlex="IV_МЭ" pos="V">мэсь</t> <re>jossakin, elollisesta</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="V">olla</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="MORFAS"/> <sem class="HUM_V"/> <sem class="ANIMAL_V"/> </semantics> <tg xml:lang="yrk"> <t Contlex="IV_МЭ" pos="V">мэсь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">ottaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_МЭ" pos="V">мэсь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kiusata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">мэтабась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">käyttää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_САС" pos="V">мэцъ</t> </tg> </mg> </e>
@@ -1947,8 +1946,8 @@
 <e> <lg> <l pos="V">lakaista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ЛАХАНА" pos="V">наˮволтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">siirtää (työntää vene vesille, ajaa tokka
         laitumelle, lakaista)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ТИР" pos="V">наˮволць</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">siirtää (työntää vene vesille, ajaa tokka
-        laitumelle, lakaista)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">наˮволъебтесь</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">siirtää (työntää vene vesille, ajaa tokka laitumelle,
+        lakaista)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">наˮволъебтесь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">sysätä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">наˮмадась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">suistaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">наˮмадась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">survaista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">наˮмадась</t> </tg> </mg> </e>
@@ -2189,8 +2188,8 @@
 <e> <lg> <l pos="V">maksaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_НУ" pos="V">нусь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kopahtaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">нуярць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kopsahtaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">нуярць</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">ommella naistentakkia ohueilla valkoisilla
-        kaistoilla selällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нуӈготась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ommella naistentakkia ohueilla valkoisilla kaistoilla
+        selällä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нуӈготась</t> </tg> </mg> </e>
 <e> <lg> <l pos="VR">nytkähtää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ӇАРАМ" pos="VR">ныдамзь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">säpsähdellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">ныдворць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">nytkähdellä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">ныдворць</t> </tg> </mg> </e>
@@ -2586,10 +2585,11 @@
 <e> <lg> <l pos="V">tavoittaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нёдалтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">seurata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ПЭБЮ" pos="V">нёдарамбась</t> <t Contlex="VR_ТИР" pos="VR">нёталць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">noudattaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ТИР" pos="VR">нёталць</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">saada tai antaa osa morsiammen maksusta etukäteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ИЛЕ" pos="V">нётлась</t> <t Contlex="TV_ИЛЕ" pos="V">нётлась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">saada tai antaa osa morsiammen maksusta
-        etukäteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ИЛЕ" pos="V">нётлась</t> <t Contlex="TV_ИЛЕ" pos="V">нётлась</t> <t Contlex="IV_СЯНАКУ" pos="V">нётлаӈгось</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">panna seuraamaan (sulhasen perhettä morsiamen
-        vanhempien perään)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нётолабтась</t> </tg> </mg> </e>
+        etukäteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_СЯНАКУ" pos="V">нётлаӈгось</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">panna seuraamaan (sulhasen perhettä morsiamen vanhempien
+        perään)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нётолабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">saalistaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">нёторць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">tahrata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нёхолабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">liata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">нёхолабтась</t> </tg> </mg> </e>
@@ -3607,8 +3607,7 @@
 <e> <lg> <l pos="V">syleillä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">севолпась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kiinnittää lasta kehtoon nahkapeitteeseen
         käärittynä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ЛАХАНА" pos="V">седась</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">valmistaa pientä peitettä porontaljasta kehtoa
-        varten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ПЭБЮ" pos="V">седотамбась</t> <t Contlex="TV_ИЛЕ" pos="V">седотась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">valmistaa pientä peitettä porontaljasta kehtoa varten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ПЭБЮ" pos="V">седотамбась</t> <t Contlex="TV_ИЛЕ" pos="V">седотась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kuuroittua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="IV_ТИР" pos="V">седяӈоворць</t> <t Contlex="IV_ӇАРАМ" pos="V">седяӈомзь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">lohduttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">сеймлембась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">rohkaista</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">сеймлембась</t> </tg> </mg> </e>
@@ -5194,8 +5193,7 @@
 <e> <lg> <l pos="V-Refl">liukua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ТИР" pos="V">хайхалць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">vierähtää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_ТИР" pos="V">хайхалць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kutiaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ЯˮАВЛУ" pos="V">халакабтась</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">ommella läppä kodalle tai rukkanen
-        lastenvaatelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">халакатась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ommella läppä kodalle tai rukkanen lastenvaatelle</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">халакатась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pöhöttyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ЛАХАНА" pos="V">халась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">paisua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ЛАХАНА" pos="V">халась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pitkittyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">халбуйворць</t> </tg> </mg> </e>
@@ -5689,8 +5687,7 @@
 <e> <lg> <l pos="V">luovuttaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">хусаркурць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">helskiä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ЛАХАНА" pos="V">хуснась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">helskyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ЛАХАНА" pos="V">хуснась</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">selvittää šamanoimalla sairauden tai epäonnen
-        syytä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">хусомбась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">selvittää šamanoimalla sairauden tai epäonnen syytä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">хусомбась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">koputtaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">хутарць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kopistaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">хутарць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kalistaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">хутарць</t> </tg> </mg> </e>
@@ -6350,8 +6347,7 @@
 <e> <lg> <l pos="V">kätkeä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">ёхорабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">peittää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">ёхорабтась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">piilottaa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="TV_ПЭБЮ" pos="V">ёхорамбась</t> <t Contlex="TV_ИЛЕ" pos="V">ёхорась</t> <t Contlex="TV_ИЛЕ" pos="V">ёхорась</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">kääriä jalat vyötäröön asti lämpimillä
-        vaatteilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">ёхоротембась</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">kääriä jalat vyötäröön asti lämpimillä vaatteilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">ёхоротембась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kadota</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">ёхорць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">häipyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ТИР" pos="V">ёхорць</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">hukata</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_САС" pos="V">ёць</t> </tg> </mg> </e>
@@ -6658,8 +6654,8 @@
 <e> <lg> <l pos="V">kapeutua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_МИН" pos="V">ӈэсанзь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">kouristua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="VR_МИН" pos="V">ӈэсанзь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">leiriytyä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="IV_ӇЭСУ" pos="V">ӈэсось</t> <t Contlex="IV_ТИР" pos="V">ӈэсурць</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">sijaita</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="IV_ӇЭ" pos="V">ӈэсь</t> </tg> </mg> </e>
-<e> <lg> <l pos="V">olla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <tCtn> <t Contlex="IV_ӇЭ" pos="V">ӈэсь</t> <re>jossakin, elottomasta</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="V">sijaita</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="MORFAS"/> <sem class="THING_V"/> </semantics> <tg xml:lang="yrk"> <t Contlex="IV_ӇЭ" pos="V">ӈэсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">olla</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="MORFAS"/> <sem class="THING_V"/> </semantics> <tg xml:lang="yrk"> <t Contlex="IV_ӇЭ" pos="V">ӈэсь</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">pistää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ИЛЕ" pos="V">ӈэтˮлась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">lävistää</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">ӈэтпась</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">tuikkia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="TV_ПЭБЮ" pos="V">ӈэтпась</t> </tg> </mg> </e>

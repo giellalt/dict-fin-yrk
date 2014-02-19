@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
 <e> <lg> <l pos="N">perhonen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ" pos="N">абалюлю</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">elokuu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">август</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">bussi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">автобус</t> </tg> </mg> </e>
@@ -9,11 +9,14 @@
 <e> <lg> <l pos="N">aakkoset</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">алфавит</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">alumiini</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">алюминий</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kyselylomake</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">анкета</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">appelsiini</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">апельсин</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">huhtikuu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">апрель</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">apteekki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">аптека</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">aritmetiikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">арифметика</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">armeija</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ-RUS" pos="N">армия</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lammas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">ас</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">atlas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">атлас</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kartasto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">атлас</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lentoasema</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">аэропорт</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">purkki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">банка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">tölkki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">банка</t> </tg> </mg> </e>
@@ -30,9 +33,9 @@
 <e> <lg> <l pos="N">varsikenkä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">ботинка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">työprikaati</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">бригада</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">prikatiiri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">бригадир</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">aitaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <tCtn> <t Contlex="N_МЯДО" pos="N">ваˮ</t> <re>reistä tehty</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">poroaitaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <tCtn> <t Contlex="N_МЯДО" pos="N">ваˮ</t> <re>reistä tehty</re> </tCtn> </tg> </mg> </e>
-<e> <lg> <l pos="N">karsina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЯДО" pos="N">ваˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">aitaus</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="CONSTRUCTION"/> </semantics> <tg xml:lang="yrk"> <tCtn> <t Contlex="N_МЯДО" pos="N">ваˮ</t> <re>reistä tehty</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="N">poroaitaus</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="CONSTRUCTION"/> </semantics> <tg xml:lang="yrk"> <tCtn> <t Contlex="N_МЯДО" pos="N">ваˮ</t> <re>reistä tehty</re> </tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="N">karsina</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="CONSTRUCTION"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_МЯДО" pos="N">ваˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">makuupaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХАНО" pos="N">ваˮав</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">sänky</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХАНО" pos="N">ваˮав</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">tarina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">ваˮал</t> </tg> </mg> </e>
@@ -252,8 +255,8 @@
 <e> <lg> <l pos="N">kangastus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР/ТАРЕ" pos="N">иларˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">elämä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">илебц</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">elo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">илебц</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">villipeura</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">илебцьʼ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">asunto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">илебцьʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">villipeura</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ANIMAL_WILD"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">илебцьʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">asunto</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="CONSTRUCTION"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">илебцьʼ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">omaisuus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">илебя</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">rikkaus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">илебя</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">asunto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">илелава</t> </tg> </mg> </e>
@@ -268,9 +271,9 @@
 <e> <lg> <l pos="N">kuuloke</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">инзелебцьʼ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hihna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">иня</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vyö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">иня</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">ukko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ" pos="N">ири</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ukko</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="PEOPLE"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ" pos="N">ири</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kuu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">ирий</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">isoisä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЯКЫ" pos="N">ирикэ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">isoisä</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="FAMILY"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ЯКЫ" pos="N">ирикэ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kirskahdus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">иркадё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">narahdus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">иркадё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ritinä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">ирна</t> </tg> </mg> </e>
@@ -278,8 +281,8 @@
 <e> <lg> <l pos="N">natina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">ирна</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kitinä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">ирнё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">narahdus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">ирнё</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">heinäkuu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">июль</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kesäkuu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">июнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">heinäkuu</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="mMONTH"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">июль</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kesäkuu</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="mMONTH"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">июнь</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ahma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД/ХУСУВЭЙ" pos="N">иӈгней</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">peruna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">картофель</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kilogramma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">килограмм</t> </tg> </mg> </e>
@@ -289,9 +292,9 @@
 <e> <lg> <l pos="N">kirja</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ/ӇЭ" pos="N">книга</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">komitea</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">комитет</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kulttuuri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ-RUS" pos="N">культура</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">natina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">narske</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">karskuna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">natina</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SOUND"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">narske</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SOUND"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">karskuna</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SOUND"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">лаˮна</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">natina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лаˮнарё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kopina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лаˮнарё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lohkare</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">лаб</t> </tg> </mg> </e>
@@ -325,8 +328,8 @@
 <e> <lg> <l pos="N">kauppa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ" pos="N">лавка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vartalo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">лад</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lyöntiväline</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">ладорабцьʼ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">näpsäys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лакадё</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kalina</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лакадё</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">näpsäys</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SOUND"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лакадё</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kalina</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="SOUND"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">лакадё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">suksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">ламба</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">perhonen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">ламбарё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">suksenjälki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">ламбитаˮма</t> </tg> </mg> </e>
@@ -336,8 +339,8 @@
 <e> <lg> <l pos="N">raajarikkoisuus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">ланзьдоˮма</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vammainen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="N_ХУСУВЭЙ" pos="N">ланзьдобэй</t> <t Contlex="N_ЕД" pos="N">ланзьсуй</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">saippua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">лансяк</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">käpälä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лапа</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">tassu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лапа</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">käpälä</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ANIMAL_OTHER"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лапа</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">tassu</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ANIMAL_OTHER"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лапа</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">leveys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">лат</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lauta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лата</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lattia</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лата</t> </tg> </mg> </e>
@@ -372,6 +375,7 @@
 <e> <lg> <l pos="N">liehureuna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР" pos="N">лидарˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">majava</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">лидяӈг</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kotka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">лимбя</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">sitruuna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">лимон</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">litra</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">литра</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kumpu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лорца</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kunnas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">лорца</t> </tg> </mg> </e>
@@ -1133,7 +1137,7 @@
 <e> <lg> <l pos="N">ihmetys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">пыса</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ihmettely</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">пыса</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ihmetys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">пыса</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">yllätys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="N_ӇАНУ" pos="N">пысабцо</t> <t Contlex="N_ӇАНУ" pos="N">пысабцо</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">yllätys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">пысабцо</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vartalo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">пыхыд</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">itse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">пыхыд</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vartalo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">пыхыд</t> </tg> </mg> </e>
@@ -1177,9 +1181,15 @@
 <e> <lg> <l pos="N">osuus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД/ХУСУВЭЙ" pos="N">пясэй</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">läähätys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">пят</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vihollinen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">пяӈгуй</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">radio</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ-RUS" pos="N">радио</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">puomi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ-RUS" pos="N">райна</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">piiri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">район</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kakkara</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ" pos="N">реска</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">piiras</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ" pos="N">реска</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">tasavalta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ" pos="N">республика</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">resepti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">рецепт</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ruis</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">рожь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ruusu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ-RUS" pos="N">роза</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vetohihna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_Ё" pos="N">са</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">panos</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД/ХАНО" pos="N">саб</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kuoppa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР" pos="N">сабарˮ</t> </tg> </mg> </e>
@@ -1297,7 +1307,10 @@
 <e> <lg> <l pos="N">viikko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТИРЕ/ХАНО" pos="N">сиˮив</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kynttilä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МАРАӇГЫ" pos="N">сибецька</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pöly</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">сибя</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">permu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">сибя</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kiiliäisen toukka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">сибя</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">naaras</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">сибяко</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">jyvä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">сибяко</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">lapio</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХОБ" pos="N">сива</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hilse</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР" pos="N">сиволˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ikkuna</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР/ТАРЕ" pos="N">сидерˮ</t> </tg> </mg> </e>
@@ -1356,6 +1369,7 @@
 <e> <lg> <l pos="N">korjausmateriaali</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">сулоˮма</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">tomahdus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="N_ӇУДИ" pos="N">сумна</t> <t Contlex="N_ӇУДИ" pos="N">сумна</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vasa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ" pos="N">сую</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kokous</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">съезд</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">jarru</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"><t Contlex="N_МЯДО" pos="N">сыˮнабтˮ</t> <t Contlex="N_ӇУДИ" pos="N">сыˮӈараˮма</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">talvi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">сыв</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">talvehtimispaikka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">сывдалава</t> </tg> </mg> </e>
@@ -1546,6 +1560,7 @@
 <e> <lg> <l pos="N">tuisku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">танзер</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">sinerrys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТАРЕ" pos="N">танзерˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">siinto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТАРЕ" pos="N">танзерˮ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">panssarivaunu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">танк</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nousuhetki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЯДО" pos="N">таныˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">astunta</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЯДО" pos="N">таныˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ajokoira</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">танырцьʼ</t> </tg> </mg> </e>
@@ -1557,6 +1572,7 @@
 <e> <lg> <l pos="N">osanotto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">тарабцо</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">tarve</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">тарабцьʼ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">osallistuminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">тарабцьʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">torakka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">таракан</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">isolokki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тарбяв</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">suovilla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">тарензьʼ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">oksa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ/ХОБ" pos="N">тарка</t> </tg> </mg> </e>
@@ -1585,6 +1601,8 @@
 <e> <lg> <l pos="N">taintumus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">тебкамбабцо</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mahla</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТИРЕ/ХАНО" pos="N">тебт</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">puuhaarukka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЁЛЬЦЕ" pos="N">теднорцьʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">televisio</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">телевизор</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">puhelin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">телефон</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">muisti</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тен</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">muistelma</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тенад</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">taito</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">теневабцо</t> </tg> </mg> </e>
@@ -1593,12 +1611,14 @@
 <e> <lg> <l pos="N">sisältö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тер</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">asukas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тер</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">jäsen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тер</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">muumemittari</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">термометр</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">verkkokäpy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">теря</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">neljännesosa</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇУДИ" pos="N">тетимдаˮма</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kerjääminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тиб</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hammas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ТЁН" pos="N">тибя</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">keuhko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тивак</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mursu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ХУСУВЭЙ" pos="N">тивтей</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">tiikeri</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД-RUS" pos="N">тигр</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kateus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тид</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pahastuminen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД" pos="N">тид</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">varjo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ЕД/ТИРЕ" pos="N">тид</t> </tg> </mg> </e>
@@ -2014,8 +2034,8 @@
 <e> <lg> <l pos="N">pentu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇЭ" pos="N">хутю</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">rako</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР" pos="N">хухурˮ</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kauha</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ВАР" pos="N">хухурˮ</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">etukäpälä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">хуӈгля</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">etujalka</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">хуӈгля</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">etukäpälä</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ANIMAL_OTHER"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">хуӈгля</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">etujalka</l> <stg> <st/> </stg> </lg> <mg> <semantics> <sem class="ANIMAL_OTHER"/> </semantics> <tg xml:lang="yrk"> <t Contlex="N_ӇОДИ" pos="N">хуӈгля</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">henkitorvi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_ӇАНУ" pos="N">хуӈго</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vikinä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">хыврё</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vingahdus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="yrk"> <t Contlex="N_МЕРЁ" pos="N">хыврё</t> </tg> </mg> </e>
