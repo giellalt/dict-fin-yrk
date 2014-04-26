@@ -1,794 +1,639 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xml:lang="fin">
+<lics xml:space="preserve">
+  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
+   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+  <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
    Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
-
-  <e>
-    <lg>
-      <l pos="Pron">ei kukaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ЕД" pos="Pron">хибяхарт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ei minkäänlainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ЕД" pos="Pron">хуркахарт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">ei mitään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ЕД" pos="Pron">ӈамгэхэрт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">he (3Du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu3" pos="Pron">пыдиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">he (3Pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl3" pos="Pron">пыдоʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">heitä (du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu3-CxAcc" pos="Pron">сиддиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">heitä (pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl3-CxAcc" pos="Pron">сиддоʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">hän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg3" pos="Pron">пыда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">häntä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg3-CxAcc" pos="Pron">сита</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">joka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="QNT_ХУСУВЭЙ" pos="Pron">хусавэй</t>
-
-        <t Contlex="QNT_ХУСУВЭЙ" pos="Qnt">хусувэй</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">jokin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ТИКЫ" pos="Pron">ӈамгэдикы</t>
-
-        <t Contlex="PRON_ӇУДИ" pos="Pron">ӈамгэхэва</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">joku</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_" pos="Pron">хибяри</t>
-
-        <t Contlex="PRON_ӇУДИ" pos="Pron">хибяхава</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">jonkinlainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ТИКЫ" pos="Pron">ӈамгэдикы</t>
-
-        <t Contlex="PRON_ӇУДИ" pos="Pron">ӈамгэхэва</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">jonkinlainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ӇУДИ" pos="Pron">хуркахава</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">kaikkein</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-DEM-ADN_" pos="Pron">сямянхат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">kaikki</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR-QNT_" pos="Pron">сямян</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">kuka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR-HUM_" pos="Pron">хибя</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">kumpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_" pos="Pron">хуюмʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">me (1Du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu1" pos="Pron">маниʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">me (1Pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl1" pos="Pron">маняˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">meitä (du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu1-CxAcc" pos="Pron">сидниʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">meitä (pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl1-CxAcc" pos="Pron">сиднаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">mihin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_-CXLAT" pos="Pron">ханяʼ</t>
-
-        <t Contlex="PRON-INTERR_-CXLAT" pos="Pron">хуʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">mikä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_" pos="Pron">ӈамгэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">mikä tahansa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_" pos="Pron">хуркари</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">millainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_ӇУДИ" pos="Pron">хурка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">milloin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR-TEMP_" pos="Pron">сяхаʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">minua</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg1-CxAcc" pos="Pron">сиˮми</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">minä (1Sg.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg1" pos="Pron">мань</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">missä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_-CXLOC" pos="Pron">ханяна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">mistä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_-CXABL" pos="Pron">ханяд</t>
-
-        <t Contlex="PRON-INTERR_-CXABL" pos="Pron">худ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">miten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR-MANNER_" pos="Pron">ханзерʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">mones</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR_" pos="Pron">ханяӈы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">montako</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-INTERR-QNT_" pos="Pron">сямбир</t>
-
-        <t Contlex="PRON-INTERR-QNT_" pos="Pron">сян</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">oma</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_" pos="Pron">хариˮ</t>
-
-        <t Contlex="PRON_" pos="Pron">хариˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">se</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-DEM-ADN_" pos="Pron">тюку</t>
-
-        <t Contlex="PersSg3" pos="Pron">пыда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">sellainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ПИСЬ" pos="Pron">тарця</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">siellä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-SPAT_-CXLOC" pos="Pron">таняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">sinua</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg2-CxAcc" pos="Pron">сит</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">sinä (2Sg.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersSg2" pos="Pron">пыдар</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">te (2Du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu2" pos="Pron">пыдариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">te (2Pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl2" pos="Pron">пыдараˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">teitä (du.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersDu2-CxAcc" pos="Pron">сиддиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">teitä (pl.)</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PersPl2-CxAcc" pos="Pron">сиддаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">tällainen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON_ПИСЬ" pos="Pron">тарця</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">tämä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="PRON-DEM-ADN_ТИКЫ" pos="Pron">тикы</t>
-
-        <t Contlex="PRON-DEM-ADN_ТИКЫ" pos="Pron">такы</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pron">täällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-SPAT_-CXLOC" pos="Pron">тюкона</t>
-      </tg>
-    </mg>
-  </e>
+   or want to add more words, download the file, edit it, and send it back to
+   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>   
+   <e>
+      <lg>
+         <l pos="Pron">ei kukaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ЕД" pos="Pron">хибяхарт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ei minkäänlainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ЕД" pos="Pron">хуркахарт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ei mitään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ЕД" pos="Pron">ӈамгэхэрт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">he (3Du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu3" pos="Pron">пыдиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">he (3Pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl3" pos="Pron">пыдоʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">heitä (du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu3-CxAcc" pos="Pron">сиддиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">heitä (pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl3-CxAcc" pos="Pron">сиддоʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg3" pos="Pron">пыда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">häntä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg3-CxAcc" pos="Pron">сита</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="QNT_ХУСУВЭЙ" pos="Pron">хусавэй</t>
+            <t Contlex="QNT_ХУСУВЭЙ" pos="Qnt">хусувэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jokin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ТИКЫ" pos="Pron">ӈамгэдикы</t>
+            <t Contlex="PRON_ӇУДИ" pos="Pron">ӈамгэхэва</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">joku</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_" pos="Pron">хибяри</t>
+            <t Contlex="PRON_ӇУДИ" pos="Pron">хибяхава</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jonkinlainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ТИКЫ" pos="Pron">ӈамгэдикы</t>
+            <t Contlex="PRON_ӇУДИ" pos="Pron">ӈамгэхэва</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jonkinlainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ӇУДИ" pos="Pron">хуркахава</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kaikkein</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-DEM-ADN_" pos="Pron">сямянхат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kaikki</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR-QNT_" pos="Pron">сямян</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kuka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR-HUM_" pos="Pron">хибя</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">kumpi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_" pos="Pron">хуюмʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">me (1Du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu1" pos="Pron">маниʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">me (1Pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl1" pos="Pron">маняˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">meitä (du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu1-CxAcc" pos="Pron">сидниʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">meitä (pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl1-CxAcc" pos="Pron">сиднаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mihin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_-CXLAT" pos="Pron">ханяʼ</t>
+            <t Contlex="PRON-INTERR_-CXLAT" pos="Pron">хуʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_" pos="Pron">ӈамгэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mikä tahansa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_" pos="Pron">хуркари</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">millainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_ӇУДИ" pos="Pron">хурка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">milloin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR-TEMP_" pos="Pron">сяхаʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">minua</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg1-CxAcc" pos="Pron">сиˮми</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">minä (1Sg.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg1" pos="Pron">мань</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">missä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_-CXLOC" pos="Pron">ханяна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mistä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_-CXABL" pos="Pron">ханяд</t>
+            <t Contlex="PRON-INTERR_-CXABL" pos="Pron">худ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">miten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR-MANNER_" pos="Pron">ханзерʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mones</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR_" pos="Pron">ханяӈы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">montako</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-INTERR-QNT_" pos="Pron">сямбир</t>
+            <t Contlex="PRON-INTERR-QNT_" pos="Pron">сян</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">oma</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_" pos="Pron">хариˮ</t>
+            <t Contlex="PRON_" pos="Pron">хариˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">se</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-DEM-ADN_" pos="Pron">тюку</t>
+            <t Contlex="PersSg3" pos="Pron">пыда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sellainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ПИСЬ" pos="Pron">тарця</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">siellä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-SPAT_-CXLOC" pos="Pron">таняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sinua</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg2-CxAcc" pos="Pron">сит</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sinä (2Sg.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersSg2" pos="Pron">пыдар</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">te (2Du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu2" pos="Pron">пыдариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">te (2Pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl2" pos="Pron">пыдараˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">teitä (du.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersDu2-CxAcc" pos="Pron">сиддиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">teitä (pl.)</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PersPl2-CxAcc" pos="Pron">сиддаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tällainen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON_ПИСЬ" pos="Pron">тарця</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tämä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="PRON-DEM-ADN_ТИКЫ" pos="Pron">тикы</t>
+            <t Contlex="PRON-DEM-ADN_ТИКЫ" pos="Pron">такы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">täällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-SPAT_-CXLOC" pos="Pron">тюкона</t>
+         </tg>
+      </mg>
+   </e>
 </r>

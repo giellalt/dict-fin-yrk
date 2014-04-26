@@ -1,4814 +1,3844 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <lics xml:space="preserve">
-    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+<r xml:lang="fin">
+<lics xml:space="preserve">
+  <lic xml:lang="en">This code is made available under a Creative Commons Attribution license
+   <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
    You are free to copy, distribute and adapt the work, as long as you always give
    proper attribution using the attribution text below.
    For the full license text, see the link above.</lic>
-
-    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+  <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
    Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+  <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
    This is NOT a fully styled and published dictionary.
    As such it can and will contain unfinished entries, unpublished entries, 
    entries with objectionable translations, etc. If you find any errors 
-   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
-  </lics>
-
-  <e>
-    <lg>
-      <l pos="Pcle">-han/-hän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">мад</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aamulla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хувʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">хуняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ahnaasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малициˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aikaisemmin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">невхэна</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">нерˮ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавна</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aikaisin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мерриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мерʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aina</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пилиˮ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ainaiseksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ainiaaksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ainoastaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aivan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈариˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈулиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aivan liian</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тарсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">паркасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">aluksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">нюрибтеʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">alussa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">нерня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ankarasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">arvaamatta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лакривна</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">юркабтʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">arviokaupalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малмюʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">малриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">avoimesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">edessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">нерня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ehkä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">масиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ei koskaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхаӈгартʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">хунахарт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ei missään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">хунахарт</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ei mistään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">хунахартад</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ei mitenkään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ханзеркартˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eilen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">теняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ennen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">нерˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ennestään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ensiksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">нюрибтеʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">epäluotettavasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">енаˮмасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">epätavallisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈэлиривна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eri paikoista</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тахат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eri puoliin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тахаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eri puolilla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тахаˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">erittäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ненаˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сабе</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">саць</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">янʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">eräänä päivänä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ханзеркаваˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">etäälle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">etäältä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавхат</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">etäälä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">etäämmälle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">halvalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">мирциˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">harvoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈоякʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">heikosti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вапюˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ныхыˮмасиˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ныхысиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">hellästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нюкута</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">henkilökohtaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">манатʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">heti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">минханда</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тикыринда</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тикырихина</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">hetkessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхабтаʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">hiljaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">hillittömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">мадарциˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">humalassa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябе</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">huomenna</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тебтаʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">хуняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">huonosti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вэвавна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">hyvin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сававна</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">саць</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">тяхариʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">хуриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">illalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пэвсюмбʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilmaiseksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">есясиˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">мирциˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">салсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilman natinaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilman syytä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">харасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilman vettä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">исиˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ициˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ilman viestiä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">юнсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">itarasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">маровна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jalan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">яда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jatkuvasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобпиняʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jo</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мале</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">joko</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jonossa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вэтамбойʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jos ei</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">joskus</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вадриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгуна</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхаӈгаваʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">темдʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jotenkin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ханзеркаваˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">juovuksissa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябе</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">juuri</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тандаяриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тандаяʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jyrkästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">jäljekkäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">еӈгалё</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">järkevästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kahden kesken</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сидяӈэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikesta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">хуримна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikki</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малмбойʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">малʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">тюкуˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikkiaalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">хуримна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikkialla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">яндахаˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikkialle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">яндахаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaikkialta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">яндахат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaksin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сидяӈэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kauan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">понʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kauan sitten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сеняˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kauas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kauemmalle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaukaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kaukana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kerkeästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kerran</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгуна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ketterästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лабтˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kiirehtien</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">паромбари</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kiireisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мерриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мертявна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kohta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈэлоримʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">koko ajan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгэвʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">хэˮлиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kolmestaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">няхарˮӈэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kolmin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">няхарˮӈэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">korkealle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">koska -kaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">koskaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kovasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kuinka paljon ...kin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяндʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kuinka pian</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяˮня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kuluttua</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пиркана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kuten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тотревʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kuten vesi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">итревʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kyllälti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мале</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kärsimättömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лаˮамдярциˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">kävelemällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">яда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lepäämättä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ныланзиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">liian</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ненаˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">liian heikosti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вапекариˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">liikaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ватамбойʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ватамбовна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">liimalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибясавэйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">likaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">варцавэйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">litteästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лабцъёрʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">loputtomasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lujasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lyhyeksi aikaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лакамбойʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lyhyesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хэвʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lähemmäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тальцюʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lämpimästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">läpi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ецˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">lävitse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ецˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">melkein</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хацяʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">meluttomasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лабˮнасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">menneisyydessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сеняˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">miksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈамгэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">milloin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхаʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяˮня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">milloin tahansa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хунари</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">missä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ханяна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">missä tahansa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хунари</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">mitassa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хункана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">miten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ханзерˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">miten tahansa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ханзелиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">mittaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хунатʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">muinoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">невхэна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">mukaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">серевʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сертревʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">mutta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">mutta nyt</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тахаби</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">myöhemmin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пуцейʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">яносарка</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">myös</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈобтаремʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈоˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">määrättömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">niin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">таремʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">niukalti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтавна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nopeammin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">меркуʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nopeasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лакриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nyt</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тедаʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тикыринда</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тикырихина</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nythän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тедахаваʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">nytpä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тадхава</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">näin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">етʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">näin paljon</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">таӈок</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">таӈокувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">odottamatta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лэркабтʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ohi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ohitse</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ohuesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтавна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oikealle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">маханяʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oikeallа</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">маханяна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oikealta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">маханяд</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oikealtа</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">маханямна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oikein</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тяхариʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">хуриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ole hyvä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябтанʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">onnellisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ябда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">oudosti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈэлиривна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ovelasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">paljon</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈока</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈокавна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pelkästään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pelottomasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пинсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">peräkkäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вэтамбойʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">еӈгалё</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pian</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мерʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈэломʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈэлоримʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pikaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">мербявна</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мербяриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pitkään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хунатʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">poikittain</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нярˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">puhtaasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">варциˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">pysähtymättä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нулӈгавасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">päinvastoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">мараˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">пырдариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">päässä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хункана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">rahakkaana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">есясавэйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">rahalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">есясавэйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">rahattomasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">есясиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">rinnalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ирэхэˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">rohkeasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пинсиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">saakka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пиратʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">salaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тале</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">samoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈобтаремʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sekä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sen pituinen se</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sen verran</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">таӈок</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">таӈокувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">siellä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таняна</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sieltä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таняд</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикад</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикахад</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тикахад</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">silloin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">теˮня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sinne</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таняʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тиканʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sinä aikana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">теˮня</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sitten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тад</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sitä kautta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">танямна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sitäkautta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тикавна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sivumennen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">sivuun</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">хэвняʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">suoraan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">иртариˮ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тидпойˮ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тидˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">suotta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хумбанзиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syksyllä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈэрёʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">synkästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">syyttömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">харасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">taas</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈаниʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tahallaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сирё</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сирю</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сюри</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ханяцейʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tai</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">takana</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пинякуна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tarkoituksella</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сирё</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сирю</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tarttuvasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибясавэйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tasan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лабцъёрʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tasavertaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пирасʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">taukoamatta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ныланзиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tavalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тотревʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tavallisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tieten taiten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сюри</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tietysti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хадриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">todellako</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈарикавахананда</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">toinen kerta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">темдʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">toisin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">нябинзерʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">toistaiseksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лакамбойʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">тедариʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tule tänne!</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">таˮляˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tuolla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тайна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tuonne</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тайʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">turhaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">месуриʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сэвъилиˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">хумбанзиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tuskin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈодьˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tähän asti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тенадʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tähän saakka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тенадʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tänne</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тальняʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">таˮляʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">таˮляʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тюконʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tänään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тюку яляʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tästä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таˮляд</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">tätä kautta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тюковна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">täysin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малмбойʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈулиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">täällä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таня</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">таˮляна</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тюкона</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тюкохона</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">täällä päin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">тюковна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">täältä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">таˮляд</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">тюкод</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulkona</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulkopuolella</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulkopuolelle</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulkopuolelta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняд</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulos</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">пинʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ulosta</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">пиняд</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">usein</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобкад</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈокаʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">хэˮлиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">uudestaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">несэйвана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vaikka</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vain</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vaivoin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">выцˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vanhastaan</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈавхат</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vapaasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈуя</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastaavasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">серевʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">сертревʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastakkain</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">хынсуʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastapäätä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
-
-        <t Contlex="ADV-LOC_" pos="Adv">ядоӈганзуʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastassa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ирˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vastikään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тандаяʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">verraten</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ирэхэˮна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vielä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тамна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">viereessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ирˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vierekkäin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-LOC_" pos="Adv">ирсуʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vihoviimein</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тахаваʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">viisaasti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">viivytyksettä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">мадармасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vinoittain</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">сябтˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vinossa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пайвана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">voimalla</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ныхыриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vähitellen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">вадриʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">нёвриʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">нявриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vähän</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">тянё</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vähän aikaa</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">хэвʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">vähän ajan päästä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пукуркана</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">väkisin</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ныхыриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhdessä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈобтʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yht'äkkiä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">юркабтʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhteisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈобтʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhtä paljon</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пирсувна</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">пирувна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhtäaikaisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пирасʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhtäjaksoisesti</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгэвʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhtäkkiä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лэркабтʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">мербяриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yhä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">етʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yksikseen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈопориӈэ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yksinään</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yksitellen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈоблад</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ӈобˮладˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ylemmäksi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ylemmäs</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yllättäen</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">ярмюйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">yöllä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">пиʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">äkkiä</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лакривна</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">лакриʼ</t>
-
-        <t Contlex="ADV-TEMP_" pos="Adv">сяхабтаʼ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">ярмюйʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">äsken</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-TEMP_" pos="Adv">тандаяриʼ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">äänettömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">лабˮнасиˮ</t>
-
-        <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">äärettömästi</l>
-
-      <stg>
-        <st/>
-      </stg>
-    </lg>
-
-    <mg>
-      <tg xml:lang="yrk">
-        <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
-      </tg>
-    </mg>
-  </e>
+   or want to add more words, download the file, edit it, and send it back to
+   <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+</lics>   
+   <e>
+      <lg>
+         <l pos="Pcle">-han/-hän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">мад</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aamulla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хувʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">хуняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ahnaasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малициˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aikaisemmin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">невхэна</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">нерˮ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавна</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aikaisin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мерриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мерʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aina</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пилиˮ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ainaiseksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ainiaaksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ainoastaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aivan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈариˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈулиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aivan liian</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тарсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">паркасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aluksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">нюрибтеʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alussa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
+            <t Contlex="ADV-LOC_" pos="Adv">нерня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ankarasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">arvaamatta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лакривна</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">юркабтʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">arviokaupalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малмюʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">малриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">avoimesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">нерня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ehkä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">масиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ei koskaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхаӈгартʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">хунахарт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ei missään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">хунахарт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ei mistään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">хунахартад</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ei mitenkään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ханзеркартˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eilen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">теняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">нерде</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">нерˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennestään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensiksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">нюрибтеʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">epäluotettavasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">енаˮмасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">epätavallisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈэлиривна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eri paikoista</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тахат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eri puoliin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тахаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eri puolilla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тахаˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erittäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ненаˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сабе</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">саць</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">янʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eräänä päivänä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ханзеркаваˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etäälle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etäältä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавхат</t>
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etäälä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etäämmälle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">halvalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">мирциˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">harvoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈоякʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heikosti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вапюˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ныхыˮмасиˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ныхысиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hellästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нюкута</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">henkilökohtaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">манатʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">минханда</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тикыринда</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тикырихина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hetkessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхабтаʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hiljaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hillittömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">мадарциˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">humalassa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">huomenna</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тебтаʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">хуняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">huonosti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вэвавна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hyvin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сававна</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">саць</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">тяхариʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">хуриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">illalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пэвсюмбʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilmaiseksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">есясиˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">мирциˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">салсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilman natinaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilman syytä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">харасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilman vettä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">исиˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ициˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ilman viestiä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">юнсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">itarasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">маровна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jalan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">яда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jatkuvasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобпиняʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jo</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мале</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">joko</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jonossa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вэтамбойʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jos ei</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">joskus</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вадриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгуна</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхаӈгаваʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">темдʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jotenkin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ханзеркаваˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">juovuksissa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">juuri</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тандаяриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тандаяʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jyrkästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jäljekkäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">еӈгалё</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">järkevästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kahden kesken</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сидяӈэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikesta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">хуримна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikki</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малмбойʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">малʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">тюкуˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkiaalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">хуримна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkialla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">яндахаˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkialle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">яндахаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaikkialta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">яндахат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaksin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сидяӈэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">понʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauan sitten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавхана</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сеняˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kauemmalle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaukaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kaukana</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ӈахаˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kerkeästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kerran</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгуна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ketterästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лабтˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kiirehtien</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">паромбари</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kiireisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мерриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мертявна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kohta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈэлоримʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koko ajan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгэвʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">пилибтˮ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">хэˮлиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kolmestaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">няхарˮӈэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kolmin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">няхарˮӈэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">korkealle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koska -kaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koskaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kovasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuinka paljon ...kin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяндʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuinka pian</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяˮня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuluttua</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пиркана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тотревʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kuten vesi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">итревʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kyllälti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мале</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kärsimättömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лаˮамдярциˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kävelemällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">яда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lepäämättä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ныланзиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liian</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ненаˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liian heikosti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вапекариˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liikaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ватамбойʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ватамбовна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liimalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибясавэйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">likaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">варцавэйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">litteästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лабцъёрʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">loputtomasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lujasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтийвана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lyhyeksi aikaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лакамбойʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lyhyesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хэвʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lähemmäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тальцюʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lämpimästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">läpi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ецˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lävitse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ецˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">melkein</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хацяʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">meluttomasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лабˮнасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">menneisyydessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сеняˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈамгэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">milloin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхаʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяˮня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">milloin tahansa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хунари</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">missä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ханяна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">missä tahansa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хунари</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mitassa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хункана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ханзерˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">miten tahansa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ханзелиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mittaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хунатʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">muinoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">невхэна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">серевʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сертревʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mutta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mutta nyt</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тахаби</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">myöhemmin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пуцейʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">яносарка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">myös</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈобтаремʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈоˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">määrättömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">таремʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niukalti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтавна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nopeammin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">меркуʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nopeasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лакриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nyt</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тедаʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тикыринда</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тикырихина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nythän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тедахаваʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nytpä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тадхава</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">етʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näin paljon</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">таӈок</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">таӈокувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">odottamatta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лэркабтʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohitse</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ohuesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтавна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikealle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">маханяʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikeallа</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">маханяна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikealta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">маханяд</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikealtа</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">маханямна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikein</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тяхариʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">хуриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ole hyvä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябтанʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">onnellisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ябда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oudosti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈэлиривна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ovelasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paljon</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈока</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈокавна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pelkästään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pelottomasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пинсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">peräkkäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вэтамбойʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">еӈгалё</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pian</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мерʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈэломʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈэлоримʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pikaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">мербявна</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мербяриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мервана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pitkään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хунатʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ямбувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">poikittain</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нярˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">puhtaasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">варциˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pysähtymättä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нулӈгавасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päinvastoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">мараˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">пырдариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päässä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хункана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rahakkaana</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">есясавэйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rahalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">есясавэйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rahattomasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">есясиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rinnalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ирэхэˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rohkeasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пинсиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">saakka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пиратʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">salaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тале</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈобтаремʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sekä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sen pituinen se</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sen verran</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">таӈок</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">таӈокувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siellä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таняна</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sieltä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таняд</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикад</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикахад</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тикахад</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">silloin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">теˮня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sinne</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таняʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тиканʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sinä aikana</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">теˮня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sitten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тад</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sitä kautta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">танямна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sitäkautta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тикавна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sivumennen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хырприʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sivuun</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">хэвняʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">suoraan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">иртариˮ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тидпойˮ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тидˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">suotta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хумбанзиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syksyllä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈэрёʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">synkästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">яˮавла</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">syyttömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">харасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taas</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈаниʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tahallaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сирё</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сирю</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сюри</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ханяцейʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tai</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нибта</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">takana</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пинякуна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tarkoituksella</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сирё</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сирю</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tarttuvasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибясавэйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tasan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лабцъёрʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tasavertaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пирасʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taukoamatta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ныланзиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tavalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тотревʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tavallisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tieten taiten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сюри</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tietysti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хадриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">todellako</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈарикавахананда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">toinen kerta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">темдʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">toisin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">нябинзерʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">toistaiseksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лакамбойʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">тедариʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tule tänne!</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">таˮляˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuolla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тайна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuonne</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тайʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">turhaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">месуриʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сэвъилиˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">хумбанзиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tuskin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈодьˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tähän asti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тенадʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tähän saakka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тенадʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänne</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тальняʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">таˮляʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">таˮляʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тюконʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tänään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тюку яляʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tästä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таˮляд</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tätä kautta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тюковна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täysin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малмбойʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈулиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täällä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таня</t>
+            <t Contlex="ADV-LOC_" pos="Adv">таˮляна</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тюкона</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тюкохона</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täällä päin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">тюковна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täältä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">таˮляд</t>
+            <t Contlex="ADV-LOC_" pos="Adv">тюкод</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkona</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkopuolella</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkopuolelle</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulkopuolelta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняд</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulos</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняʼ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">пинʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ulosta</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">пиняд</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">usein</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобкад</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈокаʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">хэˮлиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uudestaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">несэйвана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vaikka</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈодˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vain</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">валакада</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">тэри</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vaivoin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">выцˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vanhastaan</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈавхат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vapaasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈуя</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastaavasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">серевʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">сертревʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastakkain</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">хынсуʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastapäätä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">иртˮ</t>
+            <t Contlex="ADV-LOC_" pos="Adv">ядоӈганзуʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastassa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ирˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vastikään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тандаяʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">verraten</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ирэхэˮна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vielä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тамна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viereessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ирˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vierekkäin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-LOC_" pos="Adv">ирсуʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vihoviimein</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тахаваʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viisaasti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ибець</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viivytyksettä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">мадармасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vinoittain</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">сябтˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vinossa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пайвана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">voimalla</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ныхыриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähitellen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">вадриʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">нёвриʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">нявриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähän</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">тянё</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähän aikaa</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">хэвʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vähän ajan päästä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пукуркана</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">väkisin</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ныхыриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhdessä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈобтʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yht'äkkiä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">юркабтʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhteisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈобтʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtä paljon</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пирсувна</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">пирувна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtäaikaisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пирасʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtäjaksoisesti</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">ӈобӈгэвʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhtäkkiä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лэркабтʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">мербяриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yhä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">етʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksikseen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈопориӈэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksinään</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ял</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksitellen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈоблад</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ӈобˮладˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylemmäksi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylemmäs</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">пирцявна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yllättäen</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">ярмюйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yöllä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">пиʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äkkiä</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лакривна</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">лакриʼ</t>
+            <t Contlex="ADV-TEMP_" pos="Adv">сяхабтаʼ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">ярмюйʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äsken</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-TEMP_" pos="Adv">тандаяриʼ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äänettömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">лабˮнасиˮ</t>
+            <t Contlex="ADV-MANNER_" pos="Adv">марнасиˮ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">äärettömästi</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="yrk">
+            <t Contlex="ADV-MANNER_" pos="Adv">малсиˮ</t>
+         </tg>
+      </mg>
+   </e>
 </r>
