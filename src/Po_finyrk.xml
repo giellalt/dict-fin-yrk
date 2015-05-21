@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="fin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <lics xml:space="preserve">
+    <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic>
+
+    <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+    <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
+  </lics>
+
+  <e>
+    <lg>
+      <l pos="Adv">aiemmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">тяхакуʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">aiemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тяхакуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">aiheesta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">сермня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">aikana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ёльцьӈгана</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">мальӈгана</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">хунданʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">ямбанʼ</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">ямбахана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">alla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">ӈылмна</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">ӈылна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">alle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">ӈылʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">alta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">ӈылад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">asti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ёльцьмана</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">ёльцяндʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">ӈэсондʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">edellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">нерцюна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">edessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">нерня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">edestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">нерад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">editse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">нермня</t>
+
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">нерцюмня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ennen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">нерцюʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">eteen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">нерʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">eteenpäin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">нерняʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">halki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">тяханяʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">jäljessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">пуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">jäljestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">пуд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">jälkeen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">пумна</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">пуʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauemmas</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">тяхакуʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">kauemmin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тяхакуна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">kautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">еˮня</t>
+
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">нимня</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">някумна</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">нямна</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">няюмна</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">помна</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">тавна</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">тяханяʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">keskeelle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">пондʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">keskellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ерня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">kohdalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">еˮня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">kohti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">едʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">етʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">koko</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">тавна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">kuluessa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ямбахана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">liittyen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">сермня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lisäksi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ӈэломана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">luo</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">няʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">някуʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">luokse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">няʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">някуʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">luona</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">някуна</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">няна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">luota</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">няд</t>
+
+        <t Contlex="POSTP_ABL" pos="Po">някуд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">läheellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">хына</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">läheeltä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">хыд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lähelle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">немюʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lähellä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ядувана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">läheltä ohi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">хымна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lähtien</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">ёльцьӈгад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">läpi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тахамана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">lävitse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тахамана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">mukaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">мянʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">сертревʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">mukaisesti</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">серевʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">myöten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">хунзерʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ohi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">ирмня</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">ирнямна</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">хэвувна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">paitsi</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ӈэломана</t>
+
+        <t Contlex="POSTP_ABS" pos="Po">хавна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">perään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">пумна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">pitkin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">нимня</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">помна</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">хунданʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">хунзерʼ</t>
+
+        <t Contlex="POSTP_PROS" pos="Po">хэвувна</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">ямбанʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">poikittain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">нярпойʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">poikki</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">нярпойʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pcle">päin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">няюʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">päälle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">ниʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">päällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">ниня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">päältä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">нид</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">rinnakkain</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">ирнямна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">rinnalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">ирнямна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">saakka</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">ӈэсондʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sijasta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ӈэломана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sisäkautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">мюмня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sisällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">мюня</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">мюняна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sisälta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">мюд</t>
+
+        <t Contlex="POSTP_ABL" pos="Po">мюняд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sisästä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">мюд</t>
+
+        <t Contlex="POSTP_ABL" pos="Po">мюняд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">sisään</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">мюʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">мюняʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">пондʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">suunnassa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">няюна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">suunnasta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">няюд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">suuntaan</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">няюʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">syystä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">нид</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">taakse</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">пуняʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">тяхаʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">takaa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">пуняд</t>
+
+        <t Contlex="POSTP_ABL" pos="Po">тяхад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">takaisin</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">пуняʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">takakautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">тяхамна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">takana</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">пунямна</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">пуняна</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">тяхана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">takia</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">нид</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">tavalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">серевʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">tavalla</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">серʼ</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">тотревʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vain varten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">еˮливна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">varten</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">еˮэмня</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vastapäästä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">иркад</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vastapäätä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">екана</t>
+
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">еˮня</t>
+
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">ирня</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">ирняна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">vastassa</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ирˮ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">viereen</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">немюʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">viereessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">ирˮ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">viereessä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC-Pal/Var" pos="Po">ирня</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">хына</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">хэвхана</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">ядувана</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vieressä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">иркана</t>
+
+        <t Contlex="POSTP_LOC" pos="Po">ирняна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">vierestä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">ирмня</t>
+
+        <t Contlex="POSTP_ABL" pos="Po">ирняд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ylhäällä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тюˮуняна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">ylhäältä</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">тюˮуняд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">yli</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS-Pal/Var" pos="Po">нимня</t>
+
+        <t Contlex="POSTP_DAT" pos="Po">тяханяʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">yläpuolella</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_LOC" pos="Po">тюˮуняна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">yläpuolelle</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">тюˮуняʼ</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">yläpuolelta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_ABL" pos="Po">тюˮуняд</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Po">yläpuolen kautta</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_PROS" pos="Po">тюˮунямна</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ylös</l>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="yrk">
+        <t Contlex="POSTP_DAT" pos="Po">тюˮуняʼ</t>
+      </tg>
+    </mg>
+  </e>
+</r>
