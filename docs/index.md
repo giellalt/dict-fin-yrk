@@ -1,7 +1,10 @@
 # Documentation for Finnish ⇒ Tundra Nenets
 
-Please see [this page](https://giellalt.github.io/dicts/index.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
+Please see [this page](https://giellalt.github.io/dicts/index.html)
+for more general information on how we work with dictionaries, and the
+various publishing alternatives.
 
-# Other information
+# External links
 
-Add text and links as needed.
+[The Nenets dictionary](https://vada.oahap.no)
+
